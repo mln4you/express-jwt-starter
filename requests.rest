@@ -1,0 +1,20 @@
+
+# REGISTER
+POST http://localhost:3000/users/register HTTP/1.1
+content-type: application/json
+
+{
+    "username": "milance84",
+    "password": "typycaly845",
+    "passwordAgain" : "typycaly845"
+}
+
+###
+# LOGIN
+POST http://localhost:3000/users/login HTTP/1.1
+content-type: application/json
+
+{
+    "username": "milance84",
+    "password": "typycaly845"
+}

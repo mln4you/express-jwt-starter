@@ -4,9 +4,9 @@ POST http://localhost:3000/users/register HTTP/1.1
 content-type: application/json
 
 {
-    "username": "milance84",
-    "password": "typycaly845",
-    "passwordAgain" : "typycaly845"
+    "username": "johndoe",
+    "password": "somepass",
+    "passwordAgain" : "somepass"
 }
 
 ###
@@ -15,6 +15,6 @@ POST http://localhost:3000/users/login HTTP/1.1
 content-type: application/json
 
 {
-    "username": "milance84",
-    "password": "typycaly845"
+    "username": "johndoe",
+    "password": "somepass"
 }

@@ -1,7 +1,7 @@
 {
-  "name": "covid-api",
+  "name": "express-sequelize-jwt-starter-kit",
   "version": "1.0.0",
-  "description": "covid related",
+  "description": "express js sequelize jwt passport strategy starter kit",
   "main": "index.js",
   "dependencies": {
     "bcrypt": "^5.0.0",
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miloscode/covid-api.git"
+    "url": "git+https://github.com/mln4you/express-jwt-starter.git"
   },
-  "author": "",
+  "author": "Milan Djordjevic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miloscode/covid-api/issues"
+    "url": "https://github.com/mln4you/express-jwt-starter/issues"
   },
-  "homepage": "https://github.com/miloscode/covid-api#readme"
+  "homepage": "https://github.com/mln4you/express-jwt-starter#readme"
 }

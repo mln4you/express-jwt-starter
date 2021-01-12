@@ -1,1 +1,1 @@
-# covid-api
+# express-js sequelize jwt passport starter kit
